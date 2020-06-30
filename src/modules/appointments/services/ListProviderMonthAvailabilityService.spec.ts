@@ -15,17 +15,57 @@ describe('ListProviderMonthAvailability', () => {
   it('should be able to list the month availability from provider', async () => {
     await fakeAppointmentsRepository.create({
       provider_id: 'user',
-      date: new Date(2020, 3, 23, 8, 0, 0),
-    });
-
-    await fakeAppointmentsRepository.create({
-      provider_id: 'user',
       date: new Date(2020, 4, 23, 8, 0, 0),
     });
 
     await fakeAppointmentsRepository.create({
       provider_id: 'user',
+      date: new Date(2020, 4, 23, 9, 0, 0),
+    });
+
+    await fakeAppointmentsRepository.create({
+      provider_id: 'user',
       date: new Date(2020, 4, 23, 10, 0, 0),
+    });
+
+    await fakeAppointmentsRepository.create({
+      provider_id: 'user',
+      date: new Date(2020, 4, 23, 11, 0, 0),
+    });
+
+    await fakeAppointmentsRepository.create({
+      provider_id: 'user',
+      date: new Date(2020, 4, 23, 12, 0, 0),
+    });
+
+    await fakeAppointmentsRepository.create({
+      provider_id: 'user',
+      date: new Date(2020, 4, 23, 13, 0, 0),
+    });
+
+    await fakeAppointmentsRepository.create({
+      provider_id: 'user',
+      date: new Date(2020, 4, 23, 14, 0, 0),
+    });
+
+    await fakeAppointmentsRepository.create({
+      provider_id: 'user',
+      date: new Date(2020, 4, 23, 15, 0, 0),
+    });
+
+    await fakeAppointmentsRepository.create({
+      provider_id: 'user',
+      date: new Date(2020, 4, 23, 16, 0, 0),
+    });
+
+    await fakeAppointmentsRepository.create({
+      provider_id: 'user',
+      date: new Date(2020, 4, 23, 17, 0, 0),
+    });
+
+    await fakeAppointmentsRepository.create({
+      provider_id: 'user',
+      date: new Date(2020, 4, 23, 11, 0, 0),
     });
 
     await fakeAppointmentsRepository.create({
@@ -43,7 +83,7 @@ describe('ListProviderMonthAvailability', () => {
       expect.arrayContaining([
         { day: 19, available: true },
         { day: 21, available: true },
-        { day: 22, available: false },
+        { day: 22, available: true },
         { day: 23, available: false },
       ]),
     );

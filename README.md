@@ -1,6 +1,6 @@
 # Aplicativo de agendamento de prestação de serviço de beleza
 
-**Iniciando a aplicação**
+**Clonando a aplicação**
 -`git clone https://github.com/tomasoak/gobarber_backend.git`
 
 **Instalando dependências**

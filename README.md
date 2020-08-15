@@ -12,7 +12,7 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tomasoak/gobarber_api?color=%23FF9000">
 
   <a href="https://www.linkedin.com/in/tomas-carvalho/" target="_blank" rel="noopener noreferrer">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-tomas%20carvalho-%23FF9000">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Tomas%20Carvalho-%23FF9000">
   </a>
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tomasoak/gobarber_api?color=%23FF9000">

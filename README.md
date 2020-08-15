@@ -24,8 +24,10 @@
   <a href="https://github.com/tomasoak/gobarber_api/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/tomasoak/gobarber_api?color=%23FF9000">
   </a>
-
+  
+  <a href="https://github.com/tomasoak/gobarber_api/license">
   <img alt="GitHub" src="https://img.shields.io/github/license/tomasoak/gobarber_api?color=%23FF9000">
+   </a>
 </p>
 
 

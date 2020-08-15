@@ -28,7 +28,7 @@
 </p>
 
 
-## About
+## :mag_right: About
 
 This API provides everything needed to organize appointments between the barbers and customers.
 
@@ -88,4 +88,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 by Tomás Carvalho 👋 [See my linkedin](https://www.linkedin.com/in/tomas-carvalho/)
+Made by Tomás Carvalho 👋 [See my linkedin](https://www.linkedin.com/in/tomas-carvalho/)

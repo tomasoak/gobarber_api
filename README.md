@@ -9,7 +9,7 @@
 <p align="center">The best way to schedule your service!</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/TomasOak/gobarber-api?color=%23FF9000">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tomasoak/gobarber-api?color=%23FF9000">
 
   <a href="https://www.linkedin.com/in/tomas-carvalho/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-tomas%20carvalho-%23FF9000">
@@ -18,7 +18,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tomasoak/gobarber_api?color=%23FF9000">
 
   <a href="https://github.com/tomasoak/gobarber_api/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tomasoakf/gobarber_api?color=%23FF9000">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tomasoak/gobarber_api?color=%23FF9000">
   </a>
 
   <a href="https://github.com/tomasoak/gobarber_api/issues">
